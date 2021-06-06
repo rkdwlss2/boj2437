@@ -16,6 +16,7 @@
 		8D2018A4264E8B53009AE87F /* boj11279.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2018A3264E8B53009AE87F /* boj11279.cpp */; };
 		8D289AB8265509A8009B90AC /* boj10815.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D289AB7265509A8009B90AC /* boj10815.cpp */; };
 		8D289ABB2655372A009B90AC /* boj2470.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D289ABA2655372A009B90AC /* boj2470.cpp */; };
+		8D2911FA266C9DDC000AB283 /* boj1158.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2911F9266C9DDC000AB283 /* boj1158.cpp */; };
 		8D3563872650E212000CCA3E /* boj20055.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D3563862650E212000CCA3E /* boj20055.cpp */; };
 		8D35638A2650EB62000CCA3E /* boj11286.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D3563892650EB62000CCA3E /* boj11286.cpp */; };
 		8D359236265922A5000E40CD /* boj1309.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D359235265922A5000E40CD /* boj1309.cpp */; };
@@ -62,6 +63,7 @@
 		8D2018A3264E8B53009AE87F /* boj11279.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj11279.cpp; sourceTree = "<group>"; };
 		8D289AB7265509A8009B90AC /* boj10815.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj10815.cpp; sourceTree = "<group>"; };
 		8D289ABA2655372A009B90AC /* boj2470.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2470.cpp; sourceTree = "<group>"; };
+		8D2911F9266C9DDC000AB283 /* boj1158.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1158.cpp; sourceTree = "<group>"; };
 		8D3563862650E212000CCA3E /* boj20055.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj20055.cpp; sourceTree = "<group>"; };
 		8D3563892650EB62000CCA3E /* boj11286.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj11286.cpp; sourceTree = "<group>"; };
 		8D359235265922A5000E40CD /* boj1309.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = boj1309.cpp; path = boj2437/boj1309.cpp; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 		8DD4C4AC2642650E006D7D2A = {
 			isa = PBXGroup;
 			children = (
+				8D2911F9266C9DDC000AB283 /* boj1158.cpp */,
 				8D35924B266A3435000E40CD /* boj16932.cpp */,
 				8D359249266A15CF000E40CD /* boj21608-2.cpp */,
 				8D35924726679427000E40CD /* boj11559.cpp */,
@@ -214,6 +217,7 @@
 				8D35923826595EF7000E40CD /* boj2293.cpp in Sources */,
 				8D35923E26621211000E40CD /* boj4195.cpp in Sources */,
 				8D42BD8A2658FCB500CA9F22 /* boj11723.cpp in Sources */,
+				8D2911FA266C9DDC000AB283 /* boj1158.cpp in Sources */,
 				8D2018A1264D4DBC009AE87F /* boj1010.cpp in Sources */,
 				8D42BD872658EA2F00CA9F22 /* bittest.cpp in Sources */,
 				8D3563872650E212000CCA3E /* boj20055.cpp in Sources */,
