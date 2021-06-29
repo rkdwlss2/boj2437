@@ -43,6 +43,7 @@
 		8DA21D9D268850E100BBA51F /* boj2638.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DA21D9C268850E100BBA51F /* boj2638.cpp */; };
 		8DA21D9F2688B21400BBA51F /* boj11052.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DA21D9E2688B21400BBA51F /* boj11052.cpp */; };
 		8DA21DA1268A05A600BBA51F /* boj11365.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DA21DA0268A05A600BBA51F /* boj11365.cpp */; };
+		8DA21DA3268B593500BBA51F /* boj1357.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DA21DA2268B593500BBA51F /* boj1357.cpp */; };
 		8DD4C4B92642650E006D7D2A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DD4C4B82642650E006D7D2A /* main.cpp */; };
 		8DD4C4C126428DF4006D7D2A /* boj4353.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DD4C4C026428DF4006D7D2A /* boj4353.cpp */; };
 		8DD4C4C426429111006D7D2A /* boj1202.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DD4C4C326429111006D7D2A /* boj1202.cpp */; };
@@ -97,6 +98,7 @@
 		8DA21D9C268850E100BBA51F /* boj2638.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2638.cpp; sourceTree = "<group>"; };
 		8DA21D9E2688B21400BBA51F /* boj11052.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj11052.cpp; sourceTree = "<group>"; };
 		8DA21DA0268A05A600BBA51F /* boj11365.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj11365.cpp; sourceTree = "<group>"; };
+		8DA21DA2268B593500BBA51F /* boj1357.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1357.cpp; sourceTree = "<group>"; };
 		8DD4C4B52642650E006D7D2A /* boj2437 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = boj2437; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DD4C4B82642650E006D7D2A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		8DD4C4C026428DF4006D7D2A /* boj4353.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj4353.cpp; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 			children = (
 				8DA21D9E2688B21400BBA51F /* boj11052.cpp */,
 				8DA21DA0268A05A600BBA51F /* boj11365.cpp */,
+				8DA21DA2268B593500BBA51F /* boj1357.cpp */,
 				8DA21D98267DEA6400BBA51F /* boj15986.cpp */,
 				8DA21D9A267F0E6B00BBA51F /* boj7785.cpp */,
 				8DA21D9C268850E100BBA51F /* boj2638.cpp */,
@@ -263,6 +266,7 @@
 				8D8F44442652B2680014B94E /* boj3046.cpp in Sources */,
 				8D3592402662197F000E40CD /* boj17608.cpp in Sources */,
 				8D35924426638A8D000E40CD /* algospotAsymmetric.cpp in Sources */,
+				8DA21DA3268B593500BBA51F /* boj1357.cpp in Sources */,
 				8D2911FC266CA908000AB283 /* bitMaskStable.cpp in Sources */,
 				8DD4C4C126428DF4006D7D2A /* boj4353.cpp in Sources */,
 				8D35638A2650EB62000CCA3E /* boj11286.cpp in Sources */,
