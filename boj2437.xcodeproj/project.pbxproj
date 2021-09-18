@@ -20,6 +20,7 @@
 		8D2911FC266CA908000AB283 /* bitMaskStable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2911FB266CA908000AB283 /* bitMaskStable.cpp */; };
 		8D2911FE266CAD90000AB283 /* boj14391.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2911FD266CAD90000AB283 /* boj14391.cpp */; };
 		8D2B1CBB26D0D58C004543F3 /* proChusuck.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2B1CBA26D0D58C004543F3 /* proChusuck.cpp */; };
+		8D34FFC926DD2595007CBC90 /* boj1068.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D34FFC826DD2595007CBC90 /* boj1068.cpp */; };
 		8D3563872650E212000CCA3E /* boj20055.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D3563862650E212000CCA3E /* boj20055.cpp */; };
 		8D35638A2650EB62000CCA3E /* boj11286.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D3563892650EB62000CCA3E /* boj11286.cpp */; };
 		8D359236265922A5000E40CD /* boj1309.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D359235265922A5000E40CD /* boj1309.cpp */; };
@@ -46,6 +47,8 @@
 		8D55C75F26C79663000AF4DF /* testNew.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D55C75E26C79663000AF4DF /* testNew.cpp */; };
 		8D55C76126C796C1000AF4DF /* testnew2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D55C76026C796C1000AF4DF /* testnew2.cpp */; };
 		8D574D9626B59CA2004D1EE0 /* boj2935.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D574D9526B59CA2004D1EE0 /* boj2935.cpp */; };
+		8D6DEC8826E32E71007811E9 /* insertionReverse.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D6DEC8726E32E71007811E9 /* insertionReverse.cpp */; };
+		8D6DEC8A26E3875A007811E9 /* algospotNerd2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D6DEC8926E3875A007811E9 /* algospotNerd2.cpp */; };
 		8D849B992655021A00EEA0D5 /* boj2529.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D849B982655021A00EEA0D5 /* boj2529.cpp */; };
 		8D8F44442652B2680014B94E /* boj3046.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D8F44432652B2680014B94E /* boj3046.cpp */; };
 		8DA1265526D8E9B1003DA0C9 /* boj3033.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DA1265426D8E9B1003DA0C9 /* boj3033.cpp */; };
@@ -63,6 +66,7 @@
 		8DD4C4B92642650E006D7D2A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DD4C4B82642650E006D7D2A /* main.cpp */; };
 		8DD4C4C126428DF4006D7D2A /* boj4353.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DD4C4C026428DF4006D7D2A /* boj4353.cpp */; };
 		8DD4C4C426429111006D7D2A /* boj1202.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DD4C4C326429111006D7D2A /* boj1202.cpp */; };
+		8DFA416426F59F74003E9E92 /* algospotRunningMedian.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFA416326F59F74003E9E92 /* algospotRunningMedian.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -91,6 +95,7 @@
 		8D2911FB266CA908000AB283 /* bitMaskStable.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bitMaskStable.cpp; sourceTree = "<group>"; };
 		8D2911FD266CAD90000AB283 /* boj14391.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj14391.cpp; sourceTree = "<group>"; };
 		8D2B1CBA26D0D58C004543F3 /* proChusuck.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = proChusuck.cpp; sourceTree = "<group>"; };
+		8D34FFC826DD2595007CBC90 /* boj1068.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1068.cpp; sourceTree = "<group>"; };
 		8D3563862650E212000CCA3E /* boj20055.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj20055.cpp; sourceTree = "<group>"; };
 		8D3563892650EB62000CCA3E /* boj11286.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj11286.cpp; sourceTree = "<group>"; };
 		8D359235265922A5000E40CD /* boj1309.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = boj1309.cpp; path = boj2437/boj1309.cpp; sourceTree = "<group>"; };
@@ -117,6 +122,8 @@
 		8D55C75E26C79663000AF4DF /* testNew.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = testNew.cpp; sourceTree = "<group>"; };
 		8D55C76026C796C1000AF4DF /* testnew2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = testnew2.cpp; sourceTree = "<group>"; };
 		8D574D9526B59CA2004D1EE0 /* boj2935.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2935.cpp; sourceTree = "<group>"; };
+		8D6DEC8726E32E71007811E9 /* insertionReverse.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = insertionReverse.cpp; sourceTree = "<group>"; };
+		8D6DEC8926E3875A007811E9 /* algospotNerd2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = algospotNerd2.cpp; sourceTree = "<group>"; };
 		8D849B982655021A00EEA0D5 /* boj2529.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2529.cpp; sourceTree = "<group>"; };
 		8D8F44432652B2680014B94E /* boj3046.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj3046.cpp; sourceTree = "<group>"; };
 		8DA1265426D8E9B1003DA0C9 /* boj3033.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj3033.cpp; sourceTree = "<group>"; };
@@ -135,6 +142,7 @@
 		8DD4C4B82642650E006D7D2A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		8DD4C4C026428DF4006D7D2A /* boj4353.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj4353.cpp; sourceTree = "<group>"; };
 		8DD4C4C326429111006D7D2A /* boj1202.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1202.cpp; sourceTree = "<group>"; };
+		8DFA416326F59F74003E9E92 /* algospotRunningMedian.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = algospotRunningMedian.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +159,10 @@
 		8DD4C4AC2642650E006D7D2A = {
 			isa = PBXGroup;
 			children = (
+				8D34FFC826DD2595007CBC90 /* boj1068.cpp */,
+				8D6DEC8726E32E71007811E9 /* insertionReverse.cpp */,
+				8DFA416326F59F74003E9E92 /* algospotRunningMedian.cpp */,
+				8D6DEC8926E3875A007811E9 /* algospotNerd2.cpp */,
 				8DA1265426D8E9B1003DA0C9 /* boj3033.cpp */,
 				8DA1265626D8FEFE003DA0C9 /* boj12605.cpp */,
 				8D55C76026C796C1000AF4DF /* testnew2.cpp */,
@@ -307,6 +319,7 @@
 				8DA21D9B267F0E6B00BBA51F /* boj7785.cpp in Sources */,
 				8D2018922647BDC3009AE87F /* boj2069.cpp in Sources */,
 				8D20189E264AC9BF009AE87F /* boj21608.cpp in Sources */,
+				8D6DEC8826E32E71007811E9 /* insertionReverse.cpp in Sources */,
 				8D35923A265A3ECC000E40CD /* boj1107.cpp in Sources */,
 				8D289ABB2655372A009B90AC /* boj2470.cpp in Sources */,
 				8DA21D9F2688B21400BBA51F /* boj11052.cpp in Sources */,
@@ -319,10 +332,13 @@
 				8D2B1CBB26D0D58C004543F3 /* proChusuck.cpp in Sources */,
 				8D849B992655021A00EEA0D5 /* boj2529.cpp in Sources */,
 				8D55C75D26C78003000AF4DF /* boj6996.cpp in Sources */,
+				8D34FFC926DD2595007CBC90 /* boj1068.cpp in Sources */,
+				8DFA416426F59F74003E9E92 /* algospotRunningMedian.cpp in Sources */,
 				8DA21D99267DEA6400BBA51F /* boj15986.cpp in Sources */,
 				8DA1265526D8E9B1003DA0C9 /* boj3033.cpp in Sources */,
 				8D42BD842658DFA000CA9F22 /* boj2636.cpp in Sources */,
 				8D8F44442652B2680014B94E /* boj3046.cpp in Sources */,
+				8D6DEC8A26E3875A007811E9 /* algospotNerd2.cpp in Sources */,
 				8D3592402662197F000E40CD /* boj17608.cpp in Sources */,
 				8D48144D26A3F3350040F785 /* stringtest.cpp in Sources */,
 				8D55C75F26C79663000AF4DF /* testNew.cpp in Sources */,
