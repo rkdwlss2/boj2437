@@ -67,6 +67,8 @@
 		8DD4C4C126428DF4006D7D2A /* boj4353.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DD4C4C026428DF4006D7D2A /* boj4353.cpp */; };
 		8DD4C4C426429111006D7D2A /* boj1202.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DD4C4C326429111006D7D2A /* boj1202.cpp */; };
 		8DFA416426F59F74003E9E92 /* algospotRunningMedian.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFA416326F59F74003E9E92 /* algospotRunningMedian.cpp */; };
+		8DFA416626F70AC8003E9E92 /* algospot_editorwars.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFA416526F70AC8003E9E92 /* algospot_editorwars.cpp */; };
+		8DFA416826F733FC003E9E92 /* algospotSolong.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFA416726F733FC003E9E92 /* algospotSolong.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -143,6 +145,8 @@
 		8DD4C4C026428DF4006D7D2A /* boj4353.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj4353.cpp; sourceTree = "<group>"; };
 		8DD4C4C326429111006D7D2A /* boj1202.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1202.cpp; sourceTree = "<group>"; };
 		8DFA416326F59F74003E9E92 /* algospotRunningMedian.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = algospotRunningMedian.cpp; sourceTree = "<group>"; };
+		8DFA416526F70AC8003E9E92 /* algospot_editorwars.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = algospot_editorwars.cpp; sourceTree = "<group>"; };
+		8DFA416726F733FC003E9E92 /* algospotSolong.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = algospotSolong.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -159,6 +163,8 @@
 		8DD4C4AC2642650E006D7D2A = {
 			isa = PBXGroup;
 			children = (
+				8DFA416726F733FC003E9E92 /* algospotSolong.cpp */,
+				8DFA416526F70AC8003E9E92 /* algospot_editorwars.cpp */,
 				8D34FFC826DD2595007CBC90 /* boj1068.cpp */,
 				8D6DEC8726E32E71007811E9 /* insertionReverse.cpp */,
 				8DFA416326F59F74003E9E92 /* algospotRunningMedian.cpp */,
@@ -303,8 +309,10 @@
 				8D35923826595EF7000E40CD /* boj2293.cpp in Sources */,
 				8D48144F26AD6AFF0040F785 /* boj10448.cpp in Sources */,
 				8D35923E26621211000E40CD /* boj4195.cpp in Sources */,
+				8DFA416826F733FC003E9E92 /* algospotSolong.cpp in Sources */,
 				8D42BD8A2658FCB500CA9F22 /* boj11723.cpp in Sources */,
 				8D2911FA266C9DDC000AB283 /* boj1158.cpp in Sources */,
+				8DFA416626F70AC8003E9E92 /* algospot_editorwars.cpp in Sources */,
 				8D2018A1264D4DBC009AE87F /* boj1010.cpp in Sources */,
 				8D42BD872658EA2F00CA9F22 /* bittest.cpp in Sources */,
 				8D574D9626B59CA2004D1EE0 /* boj2935.cpp in Sources */,
