@@ -70,6 +70,8 @@
 		8DFA416626F70AC8003E9E92 /* algospot_editorwars.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFA416526F70AC8003E9E92 /* algospot_editorwars.cpp */; };
 		8DFA416826F733FC003E9E92 /* algospotSolong.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFA416726F733FC003E9E92 /* algospotSolong.cpp */; };
 		8DFA416A26F9DBA0003E9E92 /* boj12899.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFA416926F9DBA0003E9E92 /* boj12899.cpp */; };
+		8DFA416C26FDF7D0003E9E92 /* kakao2test.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFA416B26FDF7CF003E9E92 /* kakao2test.cpp */; };
+		8DFA416E27097B03003E9E92 /* boj20056.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFA416D27097B03003E9E92 /* boj20056.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -149,6 +151,8 @@
 		8DFA416526F70AC8003E9E92 /* algospot_editorwars.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = algospot_editorwars.cpp; sourceTree = "<group>"; };
 		8DFA416726F733FC003E9E92 /* algospotSolong.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = algospotSolong.cpp; sourceTree = "<group>"; };
 		8DFA416926F9DBA0003E9E92 /* boj12899.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj12899.cpp; sourceTree = "<group>"; };
+		8DFA416B26FDF7CF003E9E92 /* kakao2test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = kakao2test.cpp; sourceTree = "<group>"; };
+		8DFA416D27097B03003E9E92 /* boj20056.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj20056.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,6 +172,8 @@
 				8DFA416726F733FC003E9E92 /* algospotSolong.cpp */,
 				8DFA416526F70AC8003E9E92 /* algospot_editorwars.cpp */,
 				8DFA416926F9DBA0003E9E92 /* boj12899.cpp */,
+				8DFA416B26FDF7CF003E9E92 /* kakao2test.cpp */,
+				8DFA416D27097B03003E9E92 /* boj20056.cpp */,
 				8D34FFC826DD2595007CBC90 /* boj1068.cpp */,
 				8D6DEC8726E32E71007811E9 /* insertionReverse.cpp */,
 				8DFA416326F59F74003E9E92 /* algospotRunningMedian.cpp */,
@@ -360,12 +366,14 @@
 				8DA21DA9269DCE7D00BBA51F /* boj9375.cpp in Sources */,
 				8DD4C4C126428DF4006D7D2A /* boj4353.cpp in Sources */,
 				8D35638A2650EB62000CCA3E /* boj11286.cpp in Sources */,
+				8DFA416C26FDF7D0003E9E92 /* kakao2test.cpp in Sources */,
 				8D2018982647C039009AE87F /* boj20058.cpp in Sources */,
 				8DD4C4B92642650E006D7D2A /* main.cpp in Sources */,
 				8DA21DA72690E11300BBA51F /* boj10987.cpp in Sources */,
 				8D20189B2647FB8C009AE87F /* boj2981.cpp in Sources */,
 				8D2018A4264E8B53009AE87F /* boj11279.cpp in Sources */,
 				8D2018952647BEDD009AE87F /* boj1934.cpp in Sources */,
+				8DFA416E27097B03003E9E92 /* boj20056.cpp in Sources */,
 				8DA21DA52690DEC000BBA51F /* boj1652.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
